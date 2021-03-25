@@ -5,3 +5,4 @@
 [node name="Mundo" type="Node2D"]
 
 [node name="Personaje" parent="." instance=ExtResource( 1 )]
+position = Vector2( 868.204, 307.11 )
